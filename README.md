@@ -1,2 +1,0 @@
-# college-name
-hicet
